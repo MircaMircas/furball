@@ -1,8 +1,8 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Furball",
   "description": "The ultimate Scratch experience.",
-  "version": "1.9",
+  "version": "1.9.1",
   "content_scripts": [
     {
       "matches": ["https://*.scratch.mit.edu/*"],
